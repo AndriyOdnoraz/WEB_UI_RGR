@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.lab3ui.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.lab3ui.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.lab3ui.app-mergeDebugResources-48:/layout/fragment_polling.xml",
+        "source": "com.example.lab3ui.app-main-51:/layout/fragment_polling.xml"
+    },
+    {
+        "merged": "com.example.lab3ui.app-mergeDebugResources-48:/layout/fragment_login.xml",
+        "source": "com.example.lab3ui.app-main-51:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.lab3ui.app-mergeDebugResources-48:/layout/fragment_create_question.xml",
+        "source": "com.example.lab3ui.app-main-51:/layout/fragment_create_question.xml"
+    },
+    {
+        "merged": "com.example.lab3ui.app-mergeDebugResources-48:/layout/add_new_question_answer_item.xml",
+        "source": "com.example.lab3ui.app-main-51:/layout/add_new_question_answer_item.xml"
+    },
+    {
+        "merged": "com.example.lab3ui.app-mergeDebugResources-48:/layout/question_item.xml",
+        "source": "com.example.lab3ui.app-main-51:/layout/question_item.xml"
+    },
+    {
+        "merged": "com.example.lab3ui.app-mergeDebugResources-48:/layout/fragment_register.xml",
+        "source": "com.example.lab3ui.app-main-51:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.example.lab3ui.app-mergeDebugResources-48:/layout/fragment_account.xml",
+        "source": "com.example.lab3ui.app-main-51:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.example.lab3ui.app-mergeDebugResources-48:/layout/polling_answer_item.xml",
+        "source": "com.example.lab3ui.app-main-51:/layout/polling_answer_item.xml"
+    },
+    {
+        "merged": "com.example.lab3ui.app-mergeDebugResources-48:/layout/fragment_questions.xml",
+        "source": "com.example.lab3ui.app-main-51:/layout/fragment_questions.xml"
+    },
+    {
+        "merged": "com.example.lab3ui.app-mergeDebugResources-48:/layout/app_bar_main.xml",
+        "source": "com.example.lab3ui.app-main-51:/layout/app_bar_main.xml"
+    }
+]
